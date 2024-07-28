@@ -33,7 +33,7 @@ export const IdentificationTypes = [
   "Military ID Card",
   "National Identity Card",
   "Passport",
-  "Resident Alien Card (Green Card)",
+  "Aadhar Card",
   "Social Security Card",
   "State ID Card",
   "Student ID Card",
