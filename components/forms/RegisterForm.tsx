@@ -243,6 +243,7 @@ const RegisterForm = ({ user }: { user: User }) => {
                     className="rounded-full border border-dark-500"
                   />
                   <p>{doctor.name}</p>
+                  <p> {doctor.Description}</p>
                 </div>
               </SelectItem>
             ))}
